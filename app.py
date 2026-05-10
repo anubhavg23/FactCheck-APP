@@ -43,7 +43,7 @@ except Exception as e:
     st.error("API Keys missing in secrets.toml!")
     st.stop()
 
-st.title("🔍 FactCheck AI (Gemini 3 Powered)")
+st.title("🔍 FactCheck AI – The Truth Layer")
 uploaded_file = st.file_uploader("Upload PDF", type=["pdf"])
 
 if uploaded_file:
