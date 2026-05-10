@@ -2,7 +2,7 @@
 
 An AI-powered fact-checking web app that reads a PDF, extracts verifiable claims, cross-references them against live web data, and flags inaccuracies — powered by **Gemini 2.5 Flash** (with Thinking) + **Tavily Search**.
 
-**Live Demo:** `https://your-app.streamlit.app` *(replace after deployment)*
+**Live Demo:** `https://github.com/anubhavg23/FactCheck-APP` 
 
 ---
 
@@ -29,7 +29,7 @@ An AI-powered fact-checking web app that reads a PDF, extracts verifiable claims
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/factcheck-ai.git
+git clone https://github.com/anubhavg23/FactCheck-APP
 cd factcheck-ai
 
 # 2. Install dependencies
